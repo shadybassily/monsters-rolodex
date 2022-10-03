@@ -1,0 +1,17 @@
+.card{
+    transition:all 0.5s !important;
+    filter: brightness(100%) !important;
+    transition: all 0.5s;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.card:hover{
+    filter: brightness(50%) !important;
+    cursor: pointer;
+}
+
+.card-title{
+    letter-spacing: 1px;
+}
+

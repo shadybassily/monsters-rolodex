@@ -1,0 +1,9 @@
+input[type="search"]{
+    box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.571);
+    letter-spacing: 1px;
+}
+
+
+input[type="search"]:focus{
+   outline: none;
+}
